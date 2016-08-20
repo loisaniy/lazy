@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+    <layout>
+		<Node label="行情视图" token="node_market_view"></Node>
+        <Node label="资金账户" token="node_investor"></Node>        
+        <Node label="基础交易" collapse="0" token="node_trade_base">
+			<Node label="证券交易" token="node_trade_base_stock"></Node>
+            <Node label="期货交易" count="1" token="node_trade_base_manual" selected='1'></Node>
+        </Node>
+		<Node label="策略交易" collapse="0" token="node_strategy">
+			<Node label="自动交易" count="0" token="node_strategy_autotrade"></Node>
+			<Node label="策略信号" count="1" token="node_strategy_signal"></Node>
+		</Node>    
+    </layout>
+</root>
