@@ -18,4 +18,4 @@
 
 若多人使用test账户，其中如果登陆期货账户，其他人登陆时，均能操作此期货账户，除非 第一次登陆的该期货账户登出
 
-如需交流： ![q群](https://github.com/loisaniy/lazy/blob/master/imagelink/qq.png)
+	![q群](https://github.com/loisaniy/lazy/blob/master/imagelink/qq.png)
